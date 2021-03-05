@@ -1,6 +1,6 @@
 //
 //  ColorPalette.swift
-//  YouTube
+//  BlurryVideo
 //
 //  Created by Andrei Marincas on 1/12/18.
 //  Copyright © 2018 Andrei Marincas. All rights reserved.

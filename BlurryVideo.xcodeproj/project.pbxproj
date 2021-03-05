@@ -13,30 +13,17 @@
 		F240CC75209F43AF00F58C6F /* IMG_1351.MOV in Resources */ = {isa = PBXBuildFile; fileRef = F240CC74209F43AF00F58C6F /* IMG_1351.MOV */; };
 		F24A09E72011967F009279CB /* UIView+Draw.swift in Sources */ = {isa = PBXBuildFile; fileRef = F24A09E62011967F009279CB /* UIView+Draw.swift */; };
 		F24A09E920119C7F009279CB /* BlurryPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F24A09E820119C7F009279CB /* BlurryPlayerView.swift */; };
-		F24A09EB2011B13F009279CB /* LibraryPlayerViewController.old3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F24A09EA2011B13F009279CB /* LibraryPlayerViewController.old3.swift */; };
-		F24A09ED2011BAB9009279CB /* RootViewController.old.swift in Sources */ = {isa = PBXBuildFile; fileRef = F24A09EC2011BAB9009279CB /* RootViewController.old.swift */; };
-		F24A09EF2011C383009279CB /* CustomSlider.old2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F24A09EE2011C383009279CB /* CustomSlider.old2.swift */; };
 		F24C620D20198EAF0007AA50 /* BackButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F24C620C20198EAF0007AA50 /* BackButton.swift */; };
-		F24C620F2019C76F0007AA50 /* NavigationBar+Animations.old.swift in Sources */ = {isa = PBXBuildFile; fileRef = F24C620E2019C76F0007AA50 /* NavigationBar+Animations.old.swift */; };
-		F24C6211201A8C7A0007AA50 /* NavigationBar+Animations.old2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F24C6210201A8C7A0007AA50 /* NavigationBar+Animations.old2.swift */; };
 		F24C6213201A9C340007AA50 /* NavigationBar+Animations.swift in Sources */ = {isa = PBXBuildFile; fileRef = F24C6212201A9C340007AA50 /* NavigationBar+Animations.swift */; };
 		F24C6215201ADAC30007AA50 /* BackButton+Animations.swift in Sources */ = {isa = PBXBuildFile; fileRef = F24C6214201ADAC30007AA50 /* BackButton+Animations.swift */; };
 		F24C6217201AE6190007AA50 /* NavigationController+Animations.swift in Sources */ = {isa = PBXBuildFile; fileRef = F24C6216201AE6190007AA50 /* NavigationController+Animations.swift */; };
-		F24C621A201AE8790007AA50 /* InterfaceOrientation.old.swift in Sources */ = {isa = PBXBuildFile; fileRef = F24C6219201AE8790007AA50 /* InterfaceOrientation.old.swift */; };
-		F24C621C201AEB540007AA50 /* StatusBar.old.swift in Sources */ = {isa = PBXBuildFile; fileRef = F24C621B201AEB540007AA50 /* StatusBar.old.swift */; };
 		F26A72DC201B96BE00A9CBC3 /* UIViewController+NavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F26A72DB201B96BE00A9CBC3 /* UIViewController+NavigationController.swift */; };
 		F26A72DE201BC19F00A9CBC3 /* UIViewController+StatusBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = F26A72DD201BC19F00A9CBC3 /* UIViewController+StatusBar.swift */; };
-		F26CA1112011F0D9008128CA /* CustomSlider.old3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F26CA1102011F0D9008128CA /* CustomSlider.old3.swift */; };
 		F26CA113201209BA008128CA /* AVPlayer+Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = F26CA112201209BA008128CA /* AVPlayer+Util.swift */; };
-		F26CA11520123513008128CA /* LibraryPlayerViewController.old4.swift in Sources */ = {isa = PBXBuildFile; fileRef = F26CA11420123513008128CA /* LibraryPlayerViewController.old4.swift */; };
 		F26CA11920123DB8008128CA /* TimeSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = F26CA11820123DB8008128CA /* TimeSlider.swift */; };
-		F26CA11B20124548008128CA /* LibraryPlayerViewController.old2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F26CA11A20124548008128CA /* LibraryPlayerViewController.old2.swift */; };
-		F2B9A0EA2014FC0A0010AFE4 /* LibraryViewController.old3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2B9A0E92014FC0A0010AFE4 /* LibraryViewController.old3.swift */; };
-		F2B9A0EC2015F8CB0010AFE4 /* AspectViewController.old3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2B9A0EB2015F8CB0010AFE4 /* AspectViewController.old3.swift */; };
 		F2B9A0EE201627DD0010AFE4 /* BlurryAsset.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2B9A0ED201627DD0010AFE4 /* BlurryAsset.swift */; };
 		F2B9A0F0201628CB0010AFE4 /* BlurryAssetManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2B9A0EF201628CB0010AFE4 /* BlurryAssetManager.swift */; };
 		F2B9A0F2201663E50010AFE4 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2B9A0F1201663E50010AFE4 /* MainViewController.swift */; };
-		F2B9A0F62017FAAC0010AFE4 /* BlurryAssetsManager.pre.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2B9A0F52017FAAC0010AFE4 /* BlurryAssetsManager.pre.swift */; };
 		F2B9A0F82017FBB40010AFE4 /* VideoManagerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2B9A0F72017FBB40010AFE4 /* VideoManagerViewController.swift */; };
 		F2B9A0FB2017FC220010AFE4 /* VideoManagerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2B9A0FA2017FC220010AFE4 /* VideoManagerCell.swift */; };
 		F2B9A0FE2017FC780010AFE4 /* VideoPickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2B9A0FD2017FC780010AFE4 /* VideoPickerViewController.swift */; };
@@ -45,15 +32,11 @@
 		F2B9A1042017FE0A0010AFE4 /* VideoPlayerToolbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2B9A1032017FE0A0010AFE4 /* VideoPlayerToolbar.swift */; };
 		F2B9A1062018007E0010AFE4 /* VideoPickerViewController+Transitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2B9A1052018007E0010AFE4 /* VideoPickerViewController+Transitions.swift */; };
 		F2C3B1EF201398AA00B5C595 /* Aspect.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C3B1EE201398AA00B5C595 /* Aspect.swift */; };
-		F2C3B1F12013AB9500B5C595 /* LibraryViewController+Transitions.old.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C3B1F02013AB9500B5C595 /* LibraryViewController+Transitions.old.swift */; };
-		F2C3B1F32014CE9600B5C595 /* LibraryViewController.old2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C3B1F22014CE9600B5C595 /* LibraryViewController.old2.swift */; };
 		F2C43C8D200C5EC300E99423 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43C8C200C5EC300E99423 /* AppDelegate.swift */; };
 		F2C43C94200C5EC300E99423 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2C43C93200C5EC300E99423 /* Assets.xcassets */; };
 		F2C43CA2200C5EC300E99423 /* BlurryVideoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CA1200C5EC300E99423 /* BlurryVideoTests.swift */; };
-		F2C43CB1200C5F8500E99423 /* Appearance.old.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CAC200C5F8500E99423 /* Appearance.old.swift */; };
 		F2C43CB2200C5F8500E99423 /* ColorPalette.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CAD200C5F8500E99423 /* ColorPalette.swift */; };
 		F2C43CB3200C5F8500E99423 /* CustomFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CAE200C5F8500E99423 /* CustomFont.swift */; };
-		F2C43CB4200C5F8500E99423 /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CAF200C5F8500E99423 /* Logger.swift */; };
 		F2C43CB5200C5F8500E99423 /* String+Localized.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CB0200C5F8500E99423 /* String+Localized.swift */; };
 		F2C43CB8200C5FAE00E99423 /* String+Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CB6200C5FAE00E99423 /* String+Util.swift */; };
 		F2C43CB9200C5FAE00E99423 /* UIColor+Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CB7200C5FAE00E99423 /* UIColor+Util.swift */; };
@@ -62,31 +45,18 @@
 		F2C43CC9200C60BE00E99423 /* OpenSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F2C43CC5200C60BE00E99423 /* OpenSans-Light.ttf */; };
 		F2C43CCA200C60BE00E99423 /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F2C43CC6200C60BE00E99423 /* OpenSans-Regular.ttf */; };
 		F2C43CCB200C60BE00E99423 /* OpenSans-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F2C43CC7200C60BE00E99423 /* OpenSans-Semibold.ttf */; };
-		F2C43CCF200C616100E99423 /* PlayerViewController.old.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CCE200C616100E99423 /* PlayerViewController.old.swift */; };
 		F2C43CD1200C619700E99423 /* PlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CD0200C619700E99423 /* PlayerView.swift */; };
 		F2C43CD3200C6BA200E99423 /* GradientLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CD2200C6BA200E99423 /* GradientLayer.swift */; };
 		F2C43CD5200C723B00E99423 /* CALayer+Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CD4200C723B00E99423 /* CALayer+Util.swift */; };
-		F2C43CD7200C8B2E00E99423 /* CustomSlider.old.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CD6200C8B2E00E99423 /* CustomSlider.old.swift */; };
 		F2C43CD9200CC2F100E99423 /* Foundation+Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CD8200CC2F100E99423 /* Foundation+Util.swift */; };
 		F2C43CDB200DC45F00E99423 /* ArrowLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CDA200DC45F00E99423 /* ArrowLabel.swift */; };
-		F2C43CDD200E55DE00E99423 /* MainViewController.old.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CDC200E55DE00E99423 /* MainViewController.old.swift */; };
 		F2C43CE7200E8F0900E99423 /* AspectButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CE6200E8F0900E99423 /* AspectButton.swift */; };
 		F2C43CE9200E8F4900E99423 /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CE8200E8F4900E99423 /* Common.swift */; };
-		F2C43CEB200EC5CC00E99423 /* AspectViewController.old.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CEA200EC5CC00E99423 /* AspectViewController.old.swift */; };
 		F2C43CED200ED1B400E99423 /* AspectBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CEC200ED1B400E99423 /* AspectBar.swift */; };
-		F2C43CEF200F84C800E99423 /* LibraryViewController.old.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CEE200F84C800E99423 /* LibraryViewController.old.swift */; };
-		F2C43CF1200F8C0000E99423 /* LibraryCell.old.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CF0200F8C0000E99423 /* LibraryCell.old.swift */; };
-		F2C43CF3200FF20E00E99423 /* Device.old.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CF2200FF20E00E99423 /* Device.old.swift */; };
-		F2C43CF520100E0200E99423 /* UIDevice+Util.old.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CF420100E0200E99423 /* UIDevice+Util.old.swift */; };
 		F2C43CF720100E5F00E99423 /* UIScreen+Resolution.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CF620100E5F00E99423 /* UIScreen+Resolution.swift */; };
-		F2C43CF920102E6400E99423 /* NavigationController.old.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CF820102E6400E99423 /* NavigationController.old.swift */; };
-		F2C43CFB20102E7F00E99423 /* NavigationBar.old.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CFA20102E7F00E99423 /* NavigationBar.old.swift */; };
 		F2C43CFD2010468800E99423 /* CoreGraphics+Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CFC2010468800E99423 /* CoreGraphics+Util.swift */; };
-		F2C43CFF2010478800E99423 /* Aspect.old.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43CFE2010478800E99423 /* Aspect.old.swift */; };
-		F2C43D0120108BEA00E99423 /* LibraryPlayerViewController.old.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43D0020108BEA00E99423 /* LibraryPlayerViewController.old.swift */; };
 		F2C43D03201161F800E99423 /* BlurEffectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43D02201161F800E99423 /* BlurEffectView.swift */; };
 		F2C43D052011634C00E99423 /* UIView+Blur.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43D042011634C00E99423 /* UIView+Blur.swift */; };
-		F2C43D072011655000E99423 /* LibraryPlayerToolbar.old.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43D062011655000E99423 /* LibraryPlayerToolbar.old.swift */; };
 		F2C43D092011724C00E99423 /* UIImage+Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43D082011724C00E99423 /* UIImage+Util.swift */; };
 		F2C43D0B20118F9000E99423 /* AspectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C43D0A20118F9000E99423 /* AspectViewController.swift */; };
 /* End PBXBuildFile section */
@@ -108,30 +78,17 @@
 		F240CC74209F43AF00F58C6F /* IMG_1351.MOV */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = IMG_1351.MOV; sourceTree = "<group>"; };
 		F24A09E62011967F009279CB /* UIView+Draw.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Draw.swift"; sourceTree = "<group>"; };
 		F24A09E820119C7F009279CB /* BlurryPlayerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlurryPlayerView.swift; sourceTree = "<group>"; };
-		F24A09EA2011B13F009279CB /* LibraryPlayerViewController.old3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LibraryPlayerViewController.old3.swift; sourceTree = "<group>"; };
-		F24A09EC2011BAB9009279CB /* RootViewController.old.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RootViewController.old.swift; sourceTree = "<group>"; };
-		F24A09EE2011C383009279CB /* CustomSlider.old2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomSlider.old2.swift; sourceTree = "<group>"; };
 		F24C620C20198EAF0007AA50 /* BackButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BackButton.swift; sourceTree = "<group>"; };
-		F24C620E2019C76F0007AA50 /* NavigationBar+Animations.old.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NavigationBar+Animations.old.swift"; sourceTree = "<group>"; };
-		F24C6210201A8C7A0007AA50 /* NavigationBar+Animations.old2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NavigationBar+Animations.old2.swift"; sourceTree = "<group>"; };
 		F24C6212201A9C340007AA50 /* NavigationBar+Animations.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NavigationBar+Animations.swift"; sourceTree = "<group>"; };
 		F24C6214201ADAC30007AA50 /* BackButton+Animations.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "BackButton+Animations.swift"; sourceTree = "<group>"; };
 		F24C6216201AE6190007AA50 /* NavigationController+Animations.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NavigationController+Animations.swift"; sourceTree = "<group>"; };
-		F24C6219201AE8790007AA50 /* InterfaceOrientation.old.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InterfaceOrientation.old.swift; sourceTree = "<group>"; };
-		F24C621B201AEB540007AA50 /* StatusBar.old.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatusBar.old.swift; sourceTree = "<group>"; };
 		F26A72DB201B96BE00A9CBC3 /* UIViewController+NavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIViewController+NavigationController.swift"; sourceTree = "<group>"; };
 		F26A72DD201BC19F00A9CBC3 /* UIViewController+StatusBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIViewController+StatusBar.swift"; sourceTree = "<group>"; };
-		F26CA1102011F0D9008128CA /* CustomSlider.old3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomSlider.old3.swift; sourceTree = "<group>"; };
 		F26CA112201209BA008128CA /* AVPlayer+Util.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "AVPlayer+Util.swift"; sourceTree = "<group>"; };
-		F26CA11420123513008128CA /* LibraryPlayerViewController.old4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LibraryPlayerViewController.old4.swift; sourceTree = "<group>"; };
 		F26CA11820123DB8008128CA /* TimeSlider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimeSlider.swift; sourceTree = "<group>"; };
-		F26CA11A20124548008128CA /* LibraryPlayerViewController.old2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LibraryPlayerViewController.old2.swift; sourceTree = "<group>"; };
-		F2B9A0E92014FC0A0010AFE4 /* LibraryViewController.old3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LibraryViewController.old3.swift; sourceTree = "<group>"; };
-		F2B9A0EB2015F8CB0010AFE4 /* AspectViewController.old3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AspectViewController.old3.swift; sourceTree = "<group>"; };
 		F2B9A0ED201627DD0010AFE4 /* BlurryAsset.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlurryAsset.swift; sourceTree = "<group>"; };
 		F2B9A0EF201628CB0010AFE4 /* BlurryAssetManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlurryAssetManager.swift; sourceTree = "<group>"; };
 		F2B9A0F1201663E50010AFE4 /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
-		F2B9A0F52017FAAC0010AFE4 /* BlurryAssetsManager.pre.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlurryAssetsManager.pre.swift; sourceTree = "<group>"; };
 		F2B9A0F72017FBB40010AFE4 /* VideoManagerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoManagerViewController.swift; sourceTree = "<group>"; };
 		F2B9A0FA2017FC220010AFE4 /* VideoManagerCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoManagerCell.swift; sourceTree = "<group>"; };
 		F2B9A0FD2017FC780010AFE4 /* VideoPickerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoPickerViewController.swift; sourceTree = "<group>"; };
@@ -140,8 +97,6 @@
 		F2B9A1032017FE0A0010AFE4 /* VideoPlayerToolbar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoPlayerToolbar.swift; sourceTree = "<group>"; };
 		F2B9A1052018007E0010AFE4 /* VideoPickerViewController+Transitions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "VideoPickerViewController+Transitions.swift"; sourceTree = "<group>"; };
 		F2C3B1EE201398AA00B5C595 /* Aspect.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Aspect.swift; sourceTree = "<group>"; };
-		F2C3B1F02013AB9500B5C595 /* LibraryViewController+Transitions.old.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "LibraryViewController+Transitions.old.swift"; sourceTree = "<group>"; };
-		F2C3B1F22014CE9600B5C595 /* LibraryViewController.old2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LibraryViewController.old2.swift; sourceTree = "<group>"; };
 		F2C43C89200C5EC300E99423 /* BlurryVideo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BlurryVideo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2C43C8C200C5EC300E99423 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F2C43C93200C5EC300E99423 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -149,10 +104,8 @@
 		F2C43C9D200C5EC300E99423 /* BlurryVideoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BlurryVideoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2C43CA1200C5EC300E99423 /* BlurryVideoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlurryVideoTests.swift; sourceTree = "<group>"; };
 		F2C43CA3200C5EC400E99423 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F2C43CAC200C5F8500E99423 /* Appearance.old.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Appearance.old.swift; sourceTree = "<group>"; };
 		F2C43CAD200C5F8500E99423 /* ColorPalette.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorPalette.swift; sourceTree = "<group>"; };
 		F2C43CAE200C5F8500E99423 /* CustomFont.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomFont.swift; sourceTree = "<group>"; };
-		F2C43CAF200C5F8500E99423 /* Logger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Logger.swift; sourceTree = "<group>"; };
 		F2C43CB0200C5F8500E99423 /* String+Localized.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+Localized.swift"; sourceTree = "<group>"; };
 		F2C43CB6200C5FAE00E99423 /* String+Util.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+Util.swift"; sourceTree = "<group>"; };
 		F2C43CB7200C5FAE00E99423 /* UIColor+Util.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Util.swift"; sourceTree = "<group>"; };
@@ -162,31 +115,18 @@
 		F2C43CC5200C60BE00E99423 /* OpenSans-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Light.ttf"; sourceTree = "<group>"; };
 		F2C43CC6200C60BE00E99423 /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Regular.ttf"; sourceTree = "<group>"; };
 		F2C43CC7200C60BE00E99423 /* OpenSans-Semibold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Semibold.ttf"; sourceTree = "<group>"; };
-		F2C43CCE200C616100E99423 /* PlayerViewController.old.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerViewController.old.swift; sourceTree = "<group>"; };
 		F2C43CD0200C619700E99423 /* PlayerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerView.swift; sourceTree = "<group>"; };
 		F2C43CD2200C6BA200E99423 /* GradientLayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GradientLayer.swift; sourceTree = "<group>"; };
 		F2C43CD4200C723B00E99423 /* CALayer+Util.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CALayer+Util.swift"; sourceTree = "<group>"; };
-		F2C43CD6200C8B2E00E99423 /* CustomSlider.old.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomSlider.old.swift; sourceTree = "<group>"; };
 		F2C43CD8200CC2F100E99423 /* Foundation+Util.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Foundation+Util.swift"; sourceTree = "<group>"; };
 		F2C43CDA200DC45F00E99423 /* ArrowLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArrowLabel.swift; sourceTree = "<group>"; };
-		F2C43CDC200E55DE00E99423 /* MainViewController.old.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.old.swift; sourceTree = "<group>"; };
 		F2C43CE6200E8F0900E99423 /* AspectButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AspectButton.swift; sourceTree = "<group>"; };
 		F2C43CE8200E8F4900E99423 /* Common.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Common.swift; sourceTree = "<group>"; };
-		F2C43CEA200EC5CC00E99423 /* AspectViewController.old.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AspectViewController.old.swift; sourceTree = "<group>"; };
 		F2C43CEC200ED1B400E99423 /* AspectBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AspectBar.swift; sourceTree = "<group>"; };
-		F2C43CEE200F84C800E99423 /* LibraryViewController.old.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LibraryViewController.old.swift; sourceTree = "<group>"; };
-		F2C43CF0200F8C0000E99423 /* LibraryCell.old.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LibraryCell.old.swift; sourceTree = "<group>"; };
-		F2C43CF2200FF20E00E99423 /* Device.old.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Device.old.swift; sourceTree = "<group>"; };
-		F2C43CF420100E0200E99423 /* UIDevice+Util.old.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIDevice+Util.old.swift"; sourceTree = "<group>"; };
 		F2C43CF620100E5F00E99423 /* UIScreen+Resolution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIScreen+Resolution.swift"; sourceTree = "<group>"; };
-		F2C43CF820102E6400E99423 /* NavigationController.old.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationController.old.swift; sourceTree = "<group>"; };
-		F2C43CFA20102E7F00E99423 /* NavigationBar.old.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationBar.old.swift; sourceTree = "<group>"; };
 		F2C43CFC2010468800E99423 /* CoreGraphics+Util.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CoreGraphics+Util.swift"; sourceTree = "<group>"; };
-		F2C43CFE2010478800E99423 /* Aspect.old.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Aspect.old.swift; sourceTree = "<group>"; };
-		F2C43D0020108BEA00E99423 /* LibraryPlayerViewController.old.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LibraryPlayerViewController.old.swift; sourceTree = "<group>"; };
 		F2C43D02201161F800E99423 /* BlurEffectView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlurEffectView.swift; sourceTree = "<group>"; };
 		F2C43D042011634C00E99423 /* UIView+Blur.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Blur.swift"; sourceTree = "<group>"; };
-		F2C43D062011655000E99423 /* LibraryPlayerToolbar.old.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LibraryPlayerToolbar.old.swift; sourceTree = "<group>"; };
 		F2C43D082011724C00E99423 /* UIImage+Util.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+Util.swift"; sourceTree = "<group>"; };
 		F2C43D0A20118F9000E99423 /* AspectViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AspectViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -275,48 +215,11 @@
 		F2B9A108201805530010AFE4 /* Unused */ = {
 			isa = PBXGroup;
 			children = (
-				F2B9A0EB2015F8CB0010AFE4 /* AspectViewController.old3.swift */,
-				F24C621B201AEB540007AA50 /* StatusBar.old.swift */,
-				F24C6219201AE8790007AA50 /* InterfaceOrientation.old.swift */,
-				F24C6210201A8C7A0007AA50 /* NavigationBar+Animations.old2.swift */,
-				F24C620E2019C76F0007AA50 /* NavigationBar+Animations.old.swift */,
-				F2B9A1092018063D0010AFE4 /* NavigationController */,
-				F2C43CF420100E0200E99423 /* UIDevice+Util.old.swift */,
-				F2C43CAC200C5F8500E99423 /* Appearance.old.swift */,
-				F2C43CF2200FF20E00E99423 /* Device.old.swift */,
-				F2C43CF0200F8C0000E99423 /* LibraryCell.old.swift */,
-				F26CA11A20124548008128CA /* LibraryPlayerViewController.old2.swift */,
-				F2C43D062011655000E99423 /* LibraryPlayerToolbar.old.swift */,
-				F2C3B1F02013AB9500B5C595 /* LibraryViewController+Transitions.old.swift */,
-				F2C3B1F22014CE9600B5C595 /* LibraryViewController.old2.swift */,
-				F2C43CEE200F84C800E99423 /* LibraryViewController.old.swift */,
-				F24A09EC2011BAB9009279CB /* RootViewController.old.swift */,
-				F2B9A0E92014FC0A0010AFE4 /* LibraryViewController.old3.swift */,
-				F2B9A0F52017FAAC0010AFE4 /* BlurryAssetsManager.pre.swift */,
-				F26CA11420123513008128CA /* LibraryPlayerViewController.old4.swift */,
-				F24A09EA2011B13F009279CB /* LibraryPlayerViewController.old3.swift */,
-				F2C43CDC200E55DE00E99423 /* MainViewController.old.swift */,
-				F2C43CFE2010478800E99423 /* Aspect.old.swift */,
-				F2C43CEA200EC5CC00E99423 /* AspectViewController.old.swift */,
-				F2C43CD6200C8B2E00E99423 /* CustomSlider.old.swift */,
-				F26CA1102011F0D9008128CA /* CustomSlider.old3.swift */,
-				F24A09EE2011C383009279CB /* CustomSlider.old2.swift */,
-				F2C43D0020108BEA00E99423 /* LibraryPlayerViewController.old.swift */,
 				F2C43D02201161F800E99423 /* BlurEffectView.swift */,
 				F2C43CDA200DC45F00E99423 /* ArrowLabel.swift */,
 				F2C43CD2200C6BA200E99423 /* GradientLayer.swift */,
-				F2C43CCE200C616100E99423 /* PlayerViewController.old.swift */,
 			);
 			name = Unused;
-			sourceTree = "<group>";
-		};
-		F2B9A1092018063D0010AFE4 /* NavigationController */ = {
-			isa = PBXGroup;
-			children = (
-				F2C43CF820102E6400E99423 /* NavigationController.old.swift */,
-				F2C43CFA20102E7F00E99423 /* NavigationBar.old.swift */,
-			);
-			name = NavigationController;
 			sourceTree = "<group>";
 		};
 		F2C43C80200C5EC300E99423 = {
@@ -378,7 +281,6 @@
 				F2C43D082011724C00E99423 /* UIImage+Util.swift */,
 				F2C43CAD200C5F8500E99423 /* ColorPalette.swift */,
 				F2C43CAE200C5F8500E99423 /* CustomFont.swift */,
-				F2C43CAF200C5F8500E99423 /* Logger.swift */,
 				F2C43CB0200C5F8500E99423 /* String+Localized.swift */,
 				F2C43CB6200C5FAE00E99423 /* String+Util.swift */,
 				F2C43CB7200C5FAE00E99423 /* UIColor+Util.swift */,
@@ -479,6 +381,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 				ro,
@@ -523,75 +426,45 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F2C43CFF2010478800E99423 /* Aspect.old.swift in Sources */,
 				F2C43CB5200C5F8500E99423 /* String+Localized.swift in Sources */,
-				F2C43CF1200F8C0000E99423 /* LibraryCell.old.swift in Sources */,
-				F24C621C201AEB540007AA50 /* StatusBar.old.swift in Sources */,
-				F2C43CB4200C5F8500E99423 /* Logger.swift in Sources */,
 				F2C43C8D200C5EC300E99423 /* AppDelegate.swift in Sources */,
 				F2C3B1EF201398AA00B5C595 /* Aspect.swift in Sources */,
 				F24C6217201AE6190007AA50 /* NavigationController+Animations.swift in Sources */,
 				F24A09E920119C7F009279CB /* BlurryPlayerView.swift in Sources */,
 				F2C43D052011634C00E99423 /* UIView+Blur.swift in Sources */,
-				F2B9A0F62017FAAC0010AFE4 /* BlurryAssetsManager.pre.swift in Sources */,
 				F24A09E72011967F009279CB /* UIView+Draw.swift in Sources */,
 				F2C43CED200ED1B400E99423 /* AspectBar.swift in Sources */,
 				F2B9A0EE201627DD0010AFE4 /* BlurryAsset.swift in Sources */,
-				F2C3B1F32014CE9600B5C595 /* LibraryViewController.old2.swift in Sources */,
-				F2C43CEF200F84C800E99423 /* LibraryViewController.old.swift in Sources */,
 				F2C43CD9200CC2F100E99423 /* Foundation+Util.swift in Sources */,
 				F2B9A1042017FE0A0010AFE4 /* VideoPlayerToolbar.swift in Sources */,
-				F24A09EF2011C383009279CB /* CustomSlider.old2.swift in Sources */,
-				F26CA11B20124548008128CA /* LibraryPlayerViewController.old2.swift in Sources */,
 				F2C43CE9200E8F4900E99423 /* Common.swift in Sources */,
 				F21F2C1120191ECD003833A6 /* NavigationBar.swift in Sources */,
 				F2B9A0FE2017FC780010AFE4 /* VideoPickerViewController.swift in Sources */,
 				F26A72DC201B96BE00A9CBC3 /* UIViewController+NavigationController.swift in Sources */,
 				F26A72DE201BC19F00A9CBC3 /* UIViewController+StatusBar.swift in Sources */,
-				F2C43CEB200EC5CC00E99423 /* AspectViewController.old.swift in Sources */,
 				F2C43CD5200C723B00E99423 /* CALayer+Util.swift in Sources */,
-				F2B9A0EA2014FC0A0010AFE4 /* LibraryViewController.old3.swift in Sources */,
 				F24C620D20198EAF0007AA50 /* BackButton.swift in Sources */,
 				F2C43CD1200C619700E99423 /* PlayerView.swift in Sources */,
 				F2C43D03201161F800E99423 /* BlurEffectView.swift in Sources */,
 				F2B9A0F0201628CB0010AFE4 /* BlurryAssetManager.swift in Sources */,
 				F2C43CB9200C5FAE00E99423 /* UIColor+Util.swift in Sources */,
-				F24A09ED2011BAB9009279CB /* RootViewController.old.swift in Sources */,
-				F2C43CDD200E55DE00E99423 /* MainViewController.old.swift in Sources */,
 				F2C43CF720100E5F00E99423 /* UIScreen+Resolution.swift in Sources */,
 				F2B9A1002017FC950010AFE4 /* VideoPickerCell.swift in Sources */,
 				F2C43D0B20118F9000E99423 /* AspectViewController.swift in Sources */,
-				F2C43CF520100E0200E99423 /* UIDevice+Util.old.swift in Sources */,
 				F2C43CB8200C5FAE00E99423 /* String+Util.swift in Sources */,
-				F2C3B1F12013AB9500B5C595 /* LibraryViewController+Transitions.old.swift in Sources */,
-				F24C6211201A8C7A0007AA50 /* NavigationBar+Animations.old2.swift in Sources */,
-				F2C43D072011655000E99423 /* LibraryPlayerToolbar.old.swift in Sources */,
-				F2C43CCF200C616100E99423 /* PlayerViewController.old.swift in Sources */,
 				F2C43CDB200DC45F00E99423 /* ArrowLabel.swift in Sources */,
-				F2B9A0EC2015F8CB0010AFE4 /* AspectViewController.old3.swift in Sources */,
 				F21F2C0F20191EC3003833A6 /* NavigationController.swift in Sources */,
 				F2C43CD3200C6BA200E99423 /* GradientLayer.swift in Sources */,
 				F24C6213201A9C340007AA50 /* NavigationBar+Animations.swift in Sources */,
 				F2C43CB3200C5F8500E99423 /* CustomFont.swift in Sources */,
-				F24C620F2019C76F0007AA50 /* NavigationBar+Animations.old.swift in Sources */,
-				F24C621A201AE8790007AA50 /* InterfaceOrientation.old.swift in Sources */,
 				F24C6215201ADAC30007AA50 /* BackButton+Animations.swift in Sources */,
 				F26CA11920123DB8008128CA /* TimeSlider.swift in Sources */,
-				F26CA1112011F0D9008128CA /* CustomSlider.old3.swift in Sources */,
-				F2C43CD7200C8B2E00E99423 /* CustomSlider.old.swift in Sources */,
-				F2C43CF920102E6400E99423 /* NavigationController.old.swift in Sources */,
-				F24A09EB2011B13F009279CB /* LibraryPlayerViewController.old3.swift in Sources */,
-				F2C43CB1200C5F8500E99423 /* Appearance.old.swift in Sources */,
-				F2C43CFB20102E7F00E99423 /* NavigationBar.old.swift in Sources */,
-				F26CA11520123513008128CA /* LibraryPlayerViewController.old4.swift in Sources */,
 				F2C43CB2200C5F8500E99423 /* ColorPalette.swift in Sources */,
 				F2B9A0F82017FBB40010AFE4 /* VideoManagerViewController.swift in Sources */,
 				F2B9A0F2201663E50010AFE4 /* MainViewController.swift in Sources */,
 				F2B9A0FB2017FC220010AFE4 /* VideoManagerCell.swift in Sources */,
 				F2C43D092011724C00E99423 /* UIImage+Util.swift in Sources */,
 				F2C43CFD2010468800E99423 /* CoreGraphics+Util.swift in Sources */,
-				F2C43D0120108BEA00E99423 /* LibraryPlayerViewController.old.swift in Sources */,
-				F2C43CF3200FF20E00E99423 /* Device.old.swift in Sources */,
 				F21F2C1620193F89003833A6 /* TestNavigationChildViewController.swift in Sources */,
 				F2B9A1022017FD8B0010AFE4 /* VideoPlayerViewController.swift in Sources */,
 				F2B9A1062018007E0010AFE4 /* VideoPickerViewController+Transitions.swift in Sources */,
